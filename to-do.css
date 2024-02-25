@@ -86,7 +86,7 @@ ul {
     margin-left: 10px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 600px) {
     #todo-container {
         max-width: 350px;
     }
