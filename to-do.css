@@ -80,9 +80,7 @@ ul {
     background-color: transparent;
 }
 
-.todo-item input[type="text"]:read-only {
-    background-color: #eee;
-}
+
 
 .todo-item button {
     margin-left: 10px;
