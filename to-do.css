@@ -76,7 +76,7 @@ ul {
 .todo-item input[type="text"] {
     flex: 1;
     border: none;
-    
+    font-size: 30px;
     background-color: transparent;
 }
 
@@ -89,5 +89,8 @@ ul {
 @media screen and (max-width: 900px) {
     #todo-container {
         max-width: 350px;
+    }
+    .todo-item input[type="text"] {
+       width: 100%;
     }
 }
